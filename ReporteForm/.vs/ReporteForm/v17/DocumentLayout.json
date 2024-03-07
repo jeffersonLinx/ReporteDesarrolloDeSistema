@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\trabajosVISUAL\\ReporteForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC43FDE-2D85-49AF-9578-08490140E130}|ReporteForm\\ReporteForm.csproj|c:\\users\\hp\\downloads\\33.-desarrollo de sistemas sem-5 materia 33\\trabajosvisual\\reporteform\\reporteform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC43FDE-2D85-49AF-9578-08490140E130}|ReporteForm\\ReporteForm.csproj|solutionrelative:reporteform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC43FDE-2D85-49AF-9578-08490140E130}|ReporteForm\\ReporteForm.csproj|C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\trabajosVISUAL\\ReporteForm\\reporteform\\reportreview\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{2DC43FDE-2D85-49AF-9578-08490140E130}|ReporteForm\\ReporteForm.csproj|solutionrelative:reporteform\\reportreview\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC43FDE-2D85-49AF-9578-08490140E130}|ReporteForm\\ReporteForm.csproj|C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\trabajosVISUAL\\ReporteForm\\reporteform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DC43FDE-2D85-49AF-9578-08490140E130}|ReporteForm\\ReporteForm.csproj|solutionrelative:reporteform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\trabajosVISUAL\\ReporteForm\\ReporteForm\\Form1.cs",
+              "RelativeDocumentMoniker": "ReporteForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\trabajosVISUAL\\ReporteForm\\ReporteForm\\Form1.cs",
+              "RelativeToolTip": "ReporteForm\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:40:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report1.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\trabajosVISUAL\\ReporteForm\\ReporteForm\\ReportreView\\Report1.rdlc",
+              "RelativeDocumentMoniker": "ReporteForm\\ReportreView\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\trabajosVISUAL\\ReporteForm\\ReporteForm\\ReportreView\\Report1.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "ReporteForm\\ReportreView\\Report1.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-03-07T17:11:56.199Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\trabajosVISUAL\\ReporteForm\\ReporteForm\\Form1.cs",
+              "RelativeDocumentMoniker": "ReporteForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\33.-DESARROLLO DE SISTEMAS SEM-5 MAteria 33\\trabajosVISUAL\\ReporteForm\\ReporteForm\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ReporteForm\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:24:55.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
